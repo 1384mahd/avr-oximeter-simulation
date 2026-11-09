@@ -1,0 +1,19 @@
+﻿# IDE and local user settings
+.vs/
+*.atsuo
+*.workspace
+
+# Generated build files; Proteus refers to this specific HEX file
+[Dd]ebug/
+[Rr]elease/
+!code/KEY_PAD/KEY_PAD/Debug/
+code/KEY_PAD/KEY_PAD/Debug/*
+!code/KEY_PAD/KEY_PAD/Debug/KEY_PAD.hex
+
+# Proteus automatic backups
+Project Backups/
+
+# Temporary files
+*.tmp
+~$*
+Thumbs.db
